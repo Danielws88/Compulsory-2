@@ -1,3 +1,11 @@
 ﻿  Oblig2.cpp
-C:\Users\danie\Documents\GitHub\Compulsory-2\Oblig2\Oblig2.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\danie\Documents\GitHub\Compulsory-2\Oblig2\Oblig2.cpp(10,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\Documents\GitHub\Compulsory-2\Oblig2\Oblig2.cpp(59,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\Documents\GitHub\Compulsory-2\Oblig2\Oblig2.cpp(75,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\Documents\GitHub\Compulsory-2\Oblig2\Oblig2.cpp(93,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\Documents\GitHub\Compulsory-2\Oblig2\Oblig2.cpp(103,58): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\Documents\GitHub\Compulsory-2\Oblig2\Oblig2.cpp(104,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\Documents\GitHub\Compulsory-2\Oblig2\Oblig2.cpp(105,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\Documents\GitHub\Compulsory-2\Oblig2\Oblig2.cpp(106,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\Documents\GitHub\Compulsory-2\Oblig2\Oblig2.cpp(139,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Oblig2.vcxproj -> C:\Users\danie\Documents\GitHub\Compulsory-2\x64\Debug\Oblig2.exe
